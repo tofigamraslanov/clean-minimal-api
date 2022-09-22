@@ -2,6 +2,8 @@
 
 # Tech Stack
 <ul>
-  <li>Asp.Net Core Minimal Api</li>
   <li>Fastendpoints</li>
+  <li>Asp.Net Core Minimal Api</li>
+  <li>EF Core</li>
+  <li>SQL Server</li>
 </ul>
